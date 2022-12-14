@@ -33,5 +33,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrafayoc&show_icons=true&theme=dark&locale=en&layout=compact" alt="abdulrafayoc" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrafayoc&theme=dark" alt="abdulrafayoc" /></p>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrafayoc&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="abdulrafayoc" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrafayoc&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="abdulrafayoc" width="40%" /></p> -->
 
