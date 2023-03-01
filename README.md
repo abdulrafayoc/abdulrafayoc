@@ -1,17 +1,18 @@
-<h1 align="center">Hi, I'm Abdul Rafay</h1>
-<h3 align="center">A Designer and Software Engineering Student from Pakistan.</h3>
+<h1 align="center">Hey, I'm Abdul Rafay</h1>
 
-<p target="blank"> <img src="https://komarev.com/ghpvc/?username=abdulrafayoc&label=Views&color=949494&style=flat" alt="abdulrafayoc" /> </p>
+<h3 align="center">A Software Engineering Student who Build and Designs Internet Products.</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrafayoc" alt="abdulrafayoc" /></a> </p> -->
+<!-- <p target="blank"> <img src="https://komarev.com/ghpvc/?username=abdulrafayoc&label=Views&color=949494&style=flat" alt="abdulrafayoc" /> </p>
 
-<p target="blank"> <a href="https://twitter.com/abdulrafayoc" target="blank"><img src="https://img.shields.io/twitter/follow/abdulrafayoc?logo=twitter&style=for-the-badge" alt="abdulrafayoc" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrafayoc" alt="abdulrafayoc" /></a> </p> 
 
+<p target="blank"> <a href="https://twitter.com/abdulrafayoc" target="blank"><img src="https://img.shields.io/twitter/follow/abdulrafayoc?logo=twitter&style=for-the-badge" alt="abdulrafayoc" /></a> </p>-->
+---
 - 🔭 I’m currently learning **C++ and Javascript**
 
 <!-- - 🌱 I’m currently learning **C++ and Javascript** -->
 
-- 🤝 I’m looking for help with **Bootstrapping a Saas Product** in future
+<!-- - 🤝 I’m looking for help with **Bootstrapping a Saas Product** in future -->
 
 - 👨‍💻 All of my projects are available at [abdulrafayoc](be.net/abdulrafayoc)
 
