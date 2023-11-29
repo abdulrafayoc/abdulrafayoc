@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Abdul Rafay</h1>
 
-<h3 align="center">A Software Engineering Student who Build and Designs Internet Products.</h3>
+<h3 align="center">A Software Engineering Student who Builds and Designs Internet Products.</h3>
 
 <!-- <p target="blank"> <img src="https://komarev.com/ghpvc/?username=abdulrafayoc&label=Views&color=949494&style=flat" alt="abdulrafayoc" /> </p>
 
@@ -8,7 +8,7 @@
 
 <p target="blank"> <a href="https://twitter.com/abdulrafayoc" target="blank"><img src="https://img.shields.io/twitter/follow/abdulrafayoc?logo=twitter&style=for-the-badge" alt="abdulrafayoc" /></a> </p>-->
 ---
-- 🔭 I’m currently learning **C++ and Javascript**
+- 🔭 I’m currently learning **Machine Learning and Data Science**
 
 <!-- - 🌱 I’m currently learning **C++ and Javascript** -->
 
