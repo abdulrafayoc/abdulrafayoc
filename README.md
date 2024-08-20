@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Abdul Rafay</h1>
 
-<h3 align="center">A Software Engineering Student who Builds and Designs Internet Products.</h3>
+<h3 align="center">A Software Engineering Student Building and Designing Internet Products.</h3>
 
 <!-- <p target="blank"> <img src="https://komarev.com/ghpvc/?username=abdulrafayoc&label=Views&color=949494&style=flat" alt="abdulrafayoc" /> </p>
 
