@@ -32,8 +32,8 @@ I'm a Software Engineering student at **FAST-NUCES** (Expected May 2026) with a 
 - Async scheduling pipeline via Redis queues with retry logic, reducing manual drafting/publishing time by **~80%**.
 - Low-latency LLM orchestration layer generating context-aware posts optimized for professional networking algorithms.
 
-🔹 **[Focentra — Multi-tenant LMS](#)** | *React, PostgreSQL, FastAPI, React Native*
-- Co-founded and led engineering for a scalable multi-tenant Learning Management System supporting **1,000+ concurrent students**.
+🔹 **[Multi-tenant LMS](#)** | *React, PostgreSQL, FastAPI, React Native*
+- led engineering for a scalable multi-tenant Learning Management System supporting **1,000+ concurrent students**.
 - Implemented PostgreSQL RLS for strict data isolation across **20+ tenant environments**.
 - Built a cross-platform mobile app for US business listings with FastAPI endpoint latency optimized to **<300ms**.
 
