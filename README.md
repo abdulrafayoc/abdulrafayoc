@@ -2,7 +2,7 @@
 
 **Software Engineer** | Full-Stack Development & Applied AI Integrations
 
-I'm a Software Engineering student at **FAST-NUCES** (Expected May 2026) with a strong focus on building production-grade web applications and AI-powered platforms. I thrive at the intersection of **high-fidelity UI/UX design** and **scalable backend architecture**—turning complex business requirements into pixel-perfect, performant systems.
+I'm a Software Engineer graduated from **FAST-NUCES** with a strong focus on building production-grade web applications and AI-powered platforms. I thrive at the intersection of **high-fidelity UI/UX design** and **scalable backend architecture**—turning complex business requirements into pixel-perfect, performant systems.
 
 ---
 
